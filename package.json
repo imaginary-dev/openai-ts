@@ -42,7 +42,7 @@
   "dependencies": {
     "@libretto/redact-pii-light": "^1.0.1",
     "limiter": "^2.1.0",
-    "p-limit": "^3.1.0",
+    "p-limit": "^6.1.0",
     "p-queue": "^6.0.0"
   }
 }
